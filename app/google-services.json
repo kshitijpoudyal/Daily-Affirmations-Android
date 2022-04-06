@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "199927440975",
-    "project_id": "betterhodl-14e1e",
-    "storage_bucket": "betterhodl-14e1e.appspot.com"
+    "project_number": "235077844347",
+    "project_id": "daily-affirmations-c0b43",
+    "storage_bucket": "daily-affirmations-c0b43.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:199927440975:android:c454342fb1d26325546c3a",
+        "mobilesdk_app_id": "1:235077844347:android:dac7c12ac6ad1e373211de",
         "android_client_info": {
-          "package_name": "com.nexient.betterhodl"
+          "package_name": "com.nepalicoders.kshitij.dailyaffirmations"
         }
       },
       "oauth_client": [
         {
-          "client_id": "199927440975-g36g4c2a16hbfotmue7oq4u1tai54767.apps.googleusercontent.com",
+          "client_id": "235077844347-hdvqk27omok6hk02fp7gg9bi5v6l61hl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBQq-sQunNCxEu-BYtCaDLMEqBKGXduZwc"
+          "current_key": "AIzaSyAiv5i03_aVKrudN8dxvppOqPiJYEvHKYE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "199927440975-g36g4c2a16hbfotmue7oq4u1tai54767.apps.googleusercontent.com",
+              "client_id": "235077844347-hdvqk27omok6hk02fp7gg9bi5v6l61hl.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "199927440975-mboudh8etgur39phl6an7i7jcits2upi.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.betterHodl-ios.BetterHodl-ios"
-              }
             }
           ]
         }
